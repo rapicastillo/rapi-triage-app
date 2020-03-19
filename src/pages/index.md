@@ -16,8 +16,8 @@ sections:
   - title: What is this tool?
     body: >-
       This application conducts a preliminary questionnaire to people and see if
-      they need to see a doctor or not.  This aims to provide inintial support
-      to folks who are worried about their health, but at the same time relieve
+      they need to see a doctor or not.  This aims to provide initial support to
+      folks who are worried about their health, but at the same time relieve
       health systems from pressure and overload.
   - title: Demo
     body: 'To find a demo, go [here](/question/start/)'
